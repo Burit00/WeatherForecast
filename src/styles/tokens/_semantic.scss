@@ -1,0 +1,17 @@
+:root {
+  /* Tła */
+  --bg-app:            var(--neutral-900);
+  --bg-card:           var(--neutral-800);
+  --bg-card-hover:     var(--neutral-700);
+  --bg-input:          var(--neutral-800);
+
+  /* Teksty */
+  --text-main:         var(--neutral-0);
+  --text-muted:        var(--neutral-300);
+  --text-subtle:       var(--neutral-200);
+
+  /* Kolory interaktywne i akcenty */
+  --color-primary:     var(--blue-500);
+  --color-primary-dark:var(--blue-700);
+  --color-accent:      var(--orange-500);
+}
